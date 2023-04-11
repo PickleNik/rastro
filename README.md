@@ -1,8 +1,10 @@
 <!-- <summary dir=ltr align=center><summary dir=rtl /><h1>Rustro</h1></summary> -->
 
-# 🦀 Rustro
+# 🦀 R\*stro
 
-Rustro is a programming language docs template for Astro.
+### R\*stro is a programming language docs template for Astro.
+
+The R\*stro template is in each and every way endorsed, supported and approved of by the R\*st Foundation.
 
 ## 🚀 Project Structure
 
@@ -40,3 +42,7 @@ All commands are run from the root of the project, from a terminal:
 | `npm run preview`      | Preview your build locally, before deploying     |
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro --help` | Get help using the Astro CLI                     |
+
+# ⚠️ Disclaimer
+
+The R\*stro template and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with the Rust Foundation or the Rust programming language. The official Rust website can be found at [https://www.rust-lang.org/](https://www.rust-lang.org/)
